@@ -1,0 +1,51 @@
+state,region,state_full_names
+AL,South,Alabama
+AK,Pacific,Alaska
+AZ,Mountain,Arizona
+AR,South,Arkansas
+CA,Pacific,California
+CO,Mountain,Colorado
+CT,New_England,Connecticut
+DC,Mid_Atlantic,District of Columbia
+DE,South,Delaware
+FL,South,Florida
+GA,South,Georgia
+HI,Pacific,Hawaii
+ID,Mountain,Idaho
+IL,Midwest,Illinois
+IN,Midwest,Indiana
+IA,Midwest,Iowa
+KS,Midwest,Kansas
+KY,South,Kentucky
+LA,South,Louisiana
+ME,New_England,Maine
+MD,South,Maryland
+MA,New_England,Massachusetts
+MN,Midwest,Minnesota
+MS,South,Mississippi
+MO,Midwest,Missouri
+MT,Mountain,Montana
+NE,Midwest,Nebraska
+NV,Mountain,Nevada
+NH,New England,New Hampshire
+NJ,Mid_Atlantic,New Jersey
+NM,Mountain,New Mexico
+NY,Mid_Atlantic,New York
+NC,South,North Carolina
+ND,Midwest,North Dakota
+OH,Midwest,Ohio
+OK,South,Oklahoma
+OR,Pacific,Oregon
+PA,Mid_Atlantic,Pennsylvania
+RI,New_England,Rhode Island
+SC,South,South Carolina
+SD,Midwest,South Dakota
+TN,South,Tennessee
+TX,South,Texas
+UT,Mountain,Utah
+VT,New_England,Vermont
+VA,South,Virginia
+WA,Pacific,Washington
+WV,South,West Virginia
+WI,Midwest,Wisconsin
+WY,Mountain,Wyoming
